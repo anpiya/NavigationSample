@@ -12,6 +12,11 @@
 		25EB6C771EB05B9700B8AEB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25EB6C751EB05B9700B8AEB5 /* Main.storyboard */; };
 		25EB6C791EB05B9700B8AEB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25EB6C781EB05B9700B8AEB5 /* Assets.xcassets */; };
 		25EB6C7C1EB05B9700B8AEB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25EB6C7A1EB05B9700B8AEB5 /* LaunchScreen.storyboard */; };
+		25EB6C841EB0614700B8AEB5 /* PinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EB6C831EB0614700B8AEB5 /* PinkViewController.swift */; };
+		25EB6C861EB068BC00B8AEB5 /* PurpleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EB6C851EB068BC00B8AEB5 /* PurpleViewController.swift */; };
+		25EB6C881EB0788500B8AEB5 /* TurquoiseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EB6C871EB0788500B8AEB5 /* TurquoiseViewController.swift */; };
+		25EB6C8A1EB078B000B8AEB5 /* OceanBlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EB6C891EB078B000B8AEB5 /* OceanBlueViewController.swift */; };
+		25EB6C8C1EB078CA00B8AEB5 /* EggPlantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EB6C8B1EB078CA00B8AEB5 /* EggPlantViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		25EB6C781EB05B9700B8AEB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25EB6C7B1EB05B9700B8AEB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25EB6C7D1EB05B9700B8AEB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25EB6C831EB0614700B8AEB5 /* PinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkViewController.swift; sourceTree = "<group>"; };
+		25EB6C851EB068BC00B8AEB5 /* PurpleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PurpleViewController.swift; sourceTree = "<group>"; };
+		25EB6C871EB0788500B8AEB5 /* TurquoiseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TurquoiseViewController.swift; sourceTree = "<group>"; };
+		25EB6C891EB078B000B8AEB5 /* OceanBlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OceanBlueViewController.swift; sourceTree = "<group>"; };
+		25EB6C8B1EB078CA00B8AEB5 /* EggPlantViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EggPlantViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,11 @@
 				25EB6C781EB05B9700B8AEB5 /* Assets.xcassets */,
 				25EB6C7A1EB05B9700B8AEB5 /* LaunchScreen.storyboard */,
 				25EB6C7D1EB05B9700B8AEB5 /* Info.plist */,
+				25EB6C831EB0614700B8AEB5 /* PinkViewController.swift */,
+				25EB6C851EB068BC00B8AEB5 /* PurpleViewController.swift */,
+				25EB6C871EB0788500B8AEB5 /* TurquoiseViewController.swift */,
+				25EB6C891EB078B000B8AEB5 /* OceanBlueViewController.swift */,
+				25EB6C8B1EB078CA00B8AEB5 /* EggPlantViewController.swift */,
 			);
 			path = NavigationTest;
 			sourceTree = "<group>";
@@ -136,6 +151,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25EB6C8C1EB078CA00B8AEB5 /* EggPlantViewController.swift in Sources */,
+				25EB6C861EB068BC00B8AEB5 /* PurpleViewController.swift in Sources */,
+				25EB6C8A1EB078B000B8AEB5 /* OceanBlueViewController.swift in Sources */,
+				25EB6C841EB0614700B8AEB5 /* PinkViewController.swift in Sources */,
+				25EB6C881EB0788500B8AEB5 /* TurquoiseViewController.swift in Sources */,
 				25EB6C741EB05B9700B8AEB5 /* ViewController.swift in Sources */,
 				25EB6C721EB05B9700B8AEB5 /* AppDelegate.swift in Sources */,
 			);
